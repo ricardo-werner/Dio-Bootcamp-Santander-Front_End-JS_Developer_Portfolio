@@ -1,78 +1,76 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
+  "name": "Ricardo Werner",
+  "photo": "",
+  "job": "Desenvolvedor Frontend",
   "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "phone": "(48) 99210-2106",
+  "email": "wernerdive@gmail.com",
   "skills": {
     "hardSkills": [
       {
-        "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
-      },
-      {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
-      },
-      {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "name": "HTML5",
+        "logo": ""
       },
       {
         "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
-      },
-      {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
-      },
-      {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "logo": ""
       }
     ],
     "softSkills": [
-      "Empatia",
-      "Liderança",
+      "Comunicação",
       "Trabalho em equipe",
-      "Flexibilidade",
-      "Organização"
+      "Adaptabilidade",
+      "Organização",
+      "Planejamento e Análise de Requisitos",
+      "Capacidade Analítica"
     ]
   },
   "languages": [
     "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Inglês (básico)"
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Dio-Bootcamp-Santander-Front_End-JS_Developer_Portfolio",
+      "url": "https://github.com/ricardo-werner/Dio-Bootcamp-Santander-Front_End-JS_Developer_Portfolio",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Dio-Bootcamp-Santander-Front_End-Responsividade_Discord",
+      "url": "https://github.com/ricardo-werner/Dio-Bootcamp-Santander-Front_End-Responsividade_Discord",
+      "github": true
+    },
+    {
+      "name": "Dio-Bootcamp-Santander-Front_End-Recriando_You_Tube",
+      "url": "https://github.com/ricardo-werner/Dio-Bootcamp-Santander-Front_End-Recriando_You_Tube",
+      "github": true
+    },
+    {
+      "name": "Dio-Bootcamp-Santander-Front_End-Recriando_Wikipidia",
+      "url": "https://github.com/ricardo-werner/Dio-Bootcamp-Santander-Front_End-Recriando_Wikipidia",
+      "github": true
+    },
+    {
+      "name": "Dio-Bootcamp-Santander-Front_End-LP_Tags_Website",
+      "url": "https://github.com/ricardo-werner/Dio-Bootcamp-Santander-Front_End-LP_Tags_Website",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "",
+      "period": "",
+      "description": ""
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "",
+      "period": "",
+      "description": ""
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "",
+      "period": "",
+      "description": ""
     }
   ]
 }
