@@ -1,6 +1,6 @@
 {
   "name": "Ricardo Werner",
-  "photo": "",
+  "photo": "https://avatars.githubusercontent.com/u/105825127?s=400&u=acb6f36d34e8777c30add1c997271426edffea4a&v=4",
   "job": "Desenvolvedor Frontend",
   "location": "São Paulo - SP",
   "phone": "(48) 99210-2106",
@@ -9,19 +9,19 @@
     "hardSkills": [
       {
         "name": "HTML5",
-        "logo": ""
+        "logo": "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain-wordmark.svg"
       },
       {
         "name": "CSS3",
-        "logo": ""
+        "logo": "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg"
       },
       {
         "name": "Javascript",
-        "logo": ""
+        "logo": "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg"
       },
       {
         "name": "React",
-        "logo": ""
+        "logo": "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg"
       }
     ],
     "softSkills": [
