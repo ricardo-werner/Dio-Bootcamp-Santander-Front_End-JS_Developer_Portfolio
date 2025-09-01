@@ -9,19 +9,19 @@
     "hardSkills": [
       {
         "name": "HTML5",
-        "logo": "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain-wordmark.svg"
+        "logo": "https://github.com/ricardo-werner/Dio-Bootcamp-Santander-Front_End-JS_Developer_Portfolio/blob/main/src/assets/img/hardskill/html.png"
       },
       {
         "name": "CSS3",
-        "logo": "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg"
+        "logo": "https://github.com/ricardo-werner/Dio-Bootcamp-Santander-Front_End-JS_Developer_Portfolio/blob/main/src/assets/img/hardskill/css.png"
       },
       {
         "name": "Javascript",
-        "logo": "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg"
+        "logo": "https://github.com/ricardo-werner/Dio-Bootcamp-Santander-Front_End-JS_Developer_Portfolio/blob/main/src/assets/img/hardskill/js.png"
       },
       {
         "name": "React",
-        "logo": "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg"
+        "logo": "https://github.com/ricardo-werner/Dio-Bootcamp-Santander-Front_End-JS_Developer_Portfolio/blob/main/src/assets/img/hardskill/react.png"
       }
     ],
     "softSkills": [
