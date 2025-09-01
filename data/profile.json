@@ -9,19 +9,19 @@
     "hardSkills": [
       {
         "name": "HTML5",
-        "logo": "https://github.com/ricardo-werner/Dio-Bootcamp-Santander-Front_End-JS_Developer_Portfolio/blob/main/src/assets/img/hardskill/html.png"
+        "logo": "https://raw.githubusercontent.com/ricardo-werner/Dio-Bootcamp-Santander-Front_End-JS_Developer_Portfolio/main/src/assets/img/hardskill/html.png"
       },
       {
         "name": "CSS3",
-        "logo": "https://github.com/ricardo-werner/Dio-Bootcamp-Santander-Front_End-JS_Developer_Portfolio/blob/main/src/assets/img/hardskill/css.png"
+        "logo": "https://raw.githubusercontent.com/ricardo-werner/Dio-Bootcamp-Santander-Front_End-JS_Developer_Portfolio/refs/heads/main/src/assets/img/hardskill/css.png"
       },
       {
         "name": "Javascript",
-        "logo": "https://github.com/ricardo-werner/Dio-Bootcamp-Santander-Front_End-JS_Developer_Portfolio/blob/main/src/assets/img/hardskill/js.png"
+        "logo": "https://raw.githubusercontent.com/ricardo-werner/Dio-Bootcamp-Santander-Front_End-JS_Developer_Portfolio/refs/heads/main/src/assets/img/hardskill/js.png"
       },
       {
         "name": "React",
-        "logo": "https://github.com/ricardo-werner/Dio-Bootcamp-Santander-Front_End-JS_Developer_Portfolio/blob/main/src/assets/img/hardskill/react.png"
+        "logo": "https://raw.githubusercontent.com/ricardo-werner/Dio-Bootcamp-Santander-Front_End-JS_Developer_Portfolio/refs/heads/main/src/assets/img/hardskill/react.png"
       }
     ],
     "softSkills": [
