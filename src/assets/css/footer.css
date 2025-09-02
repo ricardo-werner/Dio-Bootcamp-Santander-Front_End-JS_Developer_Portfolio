@@ -1,16 +1,31 @@
 footer {
     display: flex;
-    flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: var(--cinza-fundo);
-    color: var(--preto);
-    padding: 2rem 0;
+    font-size: 1.2rem;
+}
+
+footer .copyright {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap: 0.5rem;
+    padding-left: 5rem;
+}
+
+footer .redes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    padding: 0 1rem 0 5rem;
 }
 
 footer .social-icons {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 1rem;
+    width: 12vw;
+    height: 12vh;
+    gap: 1.5rem;
 }
