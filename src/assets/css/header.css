@@ -3,6 +3,7 @@
     flex-direction: column;
     align-items: center;
     position: relative;
+    font-size: 1.6rem;
 }
 
 .header::after {
@@ -25,7 +26,7 @@
 }
 
 .header .title {
-    font-family: 'Neue Machina';
+    font-family: 'Open Sans';
     text-align: center;
 }
 
@@ -41,14 +42,14 @@
     flex-direction: row;
     align-items: center;
     margin: .5rem;
-    font-size: 1.125rem;
+    font-size: 1.4rem;
 }
 
 .information p::before {
     content: '';
     display: inline-block;
-    width: 1rem;
-    height: 1rem;
+    width: 1.2rem;
+    height: 1.2rem;
     background-repeat: no-repeat;
     background-size: contain;
     margin-right: .5rem;
@@ -87,7 +88,6 @@
     .header .title {
         grid-area: title;
         text-align: start;
-        max-width: 210px;
     }
 
     .header .information {
