@@ -33,10 +33,7 @@
       "Capacidade Analítica"
     ]
   },
-  "languages": [
-    "Português BR",
-    "Inglês (básico)"
-  ],
+  "languages": ["Português BR", "Inglês (básico)"],
   "portfolio": [
     {
       "name": "Dio-Bootcamp-Santander-Front_End-JS_Developer_Portfolio",
@@ -64,7 +61,7 @@
       "github": true
     }
   ],
-  "professionalExperience": [
+  "experience": [
     {
       "name": "Desenvolvedor Front-End | Rocketseat",
       "period": "jun/2024-dez/2025",
