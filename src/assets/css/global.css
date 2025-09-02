@@ -3,11 +3,6 @@
     font-family: 'Open Sans', sans-serif;
 }
 
-@font-face {
-    font-family: 'Neue Machina';
-    src: url('../fonts/neue-machina-regular.otf');
-}
-
 body {
     background-color: #000;
     color: #fff;
@@ -49,6 +44,19 @@ a:hover {
     bottom: 0;
     right: 0;
     transform: rotate(180deg);
+}
+
+.footer {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 1rem;
+}
+
+.footer img {
+    max-width: 100px;
 }
 
 
