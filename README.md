@@ -13,14 +13,13 @@
 
 O desafio consiste em criar uma página de portfólio web simples, aplicando além das tags HTML abordadas nas aulas, as estilizações aprendidas e a utilização do Javascript com o consumo de API e aplicar a responsividade para os dispositivos exitentes, acessibilidade e SEO.
 
-#### 🧩 Mapa da Estrutura do DOM do HTML:
+### 🧠 Mapa da Estrutura do DOM
 
-## 🧠 Mapa da Estrutura do DOM
+Abaixo está o fluxograma representando a estrutura do DOM utilizada neste projeto. Ele reflete a organização semântica do HTML, separando áreas como navegação, conteúdo principal, seções e elementos visuais.
 
-Abaixo está o fluxograma representando a estrutura do DOM utilizada neste projeto. Ele reflete a organização semântica do HTML, separando áreas como navegação, conteúdo principal, seções laterais e elementos visuais.
-
-
-> 🧩 A imagem acima mostra a estrutura hierárquica do DOM com base no HTML semântico utilizado no projeto Responsividade - Discord para melhor organização e acessibilidade.
+<p align="center">
+  <img width="480" src="./src/assets/to_readme/dom_ascii_portfolio.svg" alt="estrutura hierárquica do DOM com base no HTML" />
+</p>
 
 ---
 
