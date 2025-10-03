@@ -27,7 +27,7 @@ a:hover {
 .main::before,
 .main::after {
     content: '';
-    background: url('../img/images/bg-dark.png') no-repeat center/cover;
+    background: url('../images/bg-dark.png') no-repeat center/cover;
     display: inline-block;
     position: fixed;
     top: 0;
