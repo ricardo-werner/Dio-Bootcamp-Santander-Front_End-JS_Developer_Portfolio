@@ -76,6 +76,7 @@ Abaixo está o fluxograma representando a estrutura do DOM utilizada neste proje
 
 - **HTML5**
 - **CSS3 (com variáveis, responsividade)**
+- **Javascript**
 - **Visual Studio Code + Live Server**
 - **ChatGPT (para apoio técnico e estruturação)**
 
@@ -98,7 +99,7 @@ Abaixo está o fluxograma representando a estrutura do DOM utilizada neste proje
 1. **Clone o repositório:**
 
 ```bash
-git clone 
+git clone https://github.com/ricardo-werner/Dio-Bootcamp-Santander-Front_End-JS_Developer_Portfolio.git
 ```
 
 2. Abra o projeto no VS Code
@@ -106,11 +107,11 @@ git clone
 3. Ative o Go Live:
 
   <p align="center">
-     <img width="280" src="./src/assets/to_readme/GoLive.jpg" alt="Ativando o Go Live">
+     <img width="240" src="./src/assets/to_readme/GoLive.jpg" alt="Ativando o Go Live">
   </p>
 
   <p align="center">
-     <img width="280" src="./src/assets/to_readme/GoLiveOn.jpg" alt="Go Live ativado">
+     <img width="240" src="./src/assets/to_readme/GoLiveOn.jpg" alt="Go Live ativado">
   </p>
 
 4. Visualize o resultado:
@@ -135,7 +136,6 @@ Também serviu como um novo modo para estruturar um portfólio mais completo, co
 
 ---
 
-🙋‍♂️ Autor <br>
-Ricardo Werner <br>
-Desenvolvedor em transição de carreira <br>
-Front-End | HTML | CSS | Javascript | React
+🙋‍♂️ Autor:&nbsp;&nbsp;
+Ricardo Werner - 
+Desenvolvedor Front-end & Acessibilidade (A11Y) & Inclusão Digital
