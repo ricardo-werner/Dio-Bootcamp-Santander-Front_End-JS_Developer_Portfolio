@@ -11,7 +11,7 @@
 
 ### 📜 Sobre o Projeto
 
-O desafio consiste em criar uma página de portfólio web simples, aplicando além das tags HTML abordadas nas aulas, as estilizações aprendidas e a utilização do Javascript com o consumo de API e aplicar a responsividade para os dispositivos exitentes, acessibilidade e SEO.
+O desafio consiste em criar uma página de portfólio web simples, aplicando além das tags HTML abordadas nas aulas, as estilizações aprendidas e a utilização do Javascript com o consumo de API e aplicar a responsividade para os dispositivos existentes, acessibilidade e SEO.
 
 ### 🧠 Mapa da Estrutura do DOM
 
@@ -35,9 +35,10 @@ Abaixo está o fluxograma representando a estrutura do DOM utilizada neste proje
 | ----- | -----------------------------------------------------------------------| 
 | 1     | Estruturação HTML com tags semânticas e para acessibilidade            |
 | 2     | Estilização CSS externa com variáveis e responsividade                 |
-| 3     | Layout com flexbox e CSS Grid                                          |
-| 4     | Aplicação de boas práticas de acessibilidade e SEO                     |
-| 5     | Inclusão de imagens, ícones, links de videos e ajustes para portfólio  |
+| 3     | Javascript utilizado para criar toda a interatividade da página        |
+| 4     | Layout com flexbox e CSS Grid                                          |
+| 5     | Aplicação de boas práticas de acessibilidade e SEO                     |
+| 6     | Inclusão de imagens, ícones e ajustes para portfólio                   |
 
 ---
 
@@ -45,13 +46,14 @@ Abaixo está o fluxograma representando a estrutura do DOM utilizada neste proje
 
 | Item | Requisito                                                                |
 | ---- | ------------------------------------------------------------------------ |
-| 1    | A página deve ser desenvolvida em HTML e CSS puro                        |
-| 2    | Utilizar todas as tags obrigatórias e sugeridas                          |
+| 1    | A página deve ser desenvolvida em HTML, CSS e Jascript                   |
+| 2    | Utilizar tags semânticas e acessibilidade                                |
 | 3    | CSS externo, uso de variáveis e `font-size: 62.5%` (para usar `rem`)     |
-| 4    | Estrutura responsiva (mobile-first ou adaptável)                         |
-| 5    | Projeto sem dependências externas de JavaScript                          |
-| 6    | Possibilidade de uso como template de portfólio futuramente              |
-| 7    | Design da página no Figma:                          |
+| 4    | Javascript para interatividade       |
+| 5    | Estrutura responsiva (mobile-first ou adaptável)                         |
+| 6    | Projeto com dependências externas de JavaScript                          |
+| 7    | Possibilidade de uso como template de portfólio futuramente              |
+| 8    | Design da página no Figma:  https://shre.ink/S2ux                        |
 
 ---
 
@@ -87,6 +89,7 @@ Abaixo está o fluxograma representando a estrutura do DOM utilizada neste proje
 | ------------------------- | -------- |
 | Tags semânticas HTML      | ✅       |
 | CSS externo com variáveis | ✅       |
+| Jascript                  | ✅       |
 | Layout responsivo         | ✅       |
 | Acessibilidade básica     | ✅       |
 | Preparação para SEO       | ✅       |
