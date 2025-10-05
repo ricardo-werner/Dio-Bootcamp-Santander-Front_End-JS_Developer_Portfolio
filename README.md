@@ -4,8 +4,9 @@
 
 ### 🔗 Deploy
 
-🔗 Acesse a página publicada aqui:  
-👉 
+🔗 Acesse a página publicada aqui:
+ 
+👉 https://ricardo-werner.github.io/Dio-Bootcamp-Santander-Front_End-JS_Developer_Portfolio/
 
 ---
 
